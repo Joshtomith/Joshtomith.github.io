@@ -53,7 +53,7 @@ Presentations
 
 ### [Sony Picture Hack Presentation](/pdf/Smith_Sony_Picture_Hack.pdf)
 
--   **Class: Principals of Cybersecurity, CRIM 405**
+-   **Class: Principals of Cybersecurity CRIM 405**
 -   **Grade: 100%**
 
 ---
