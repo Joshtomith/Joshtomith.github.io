@@ -51,10 +51,10 @@ Ethics Papers
 Presentations
 -------------
 
-### [Paper 3 Title](/pdf/Sony_Pictures_Hack.pdf)
+### [Sony Picture Hack Presentation](/pdf/Smith_Sony_Picture_Hack.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: Principals of Cybersecurity | CRIM 405** 
+-   **Grade: 100%**
 
 ---
 
