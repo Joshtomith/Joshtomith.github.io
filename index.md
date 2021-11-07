@@ -31,17 +31,12 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Ethics of Programming Copyright](/pdf/Smith_Scripting_Ethics_Paper.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: Survey of Scripting Languages CSCI 301**  
+-   **Grade: 94%**
 
 ### [Paper 2 Title](/pdf/sample_presentation.pdf)
-
--   **Class:** 
--   **Grade:**
-
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
 
 -   **Class:** 
 -   **Grade:**
