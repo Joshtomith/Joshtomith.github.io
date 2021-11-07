@@ -7,9 +7,8 @@ description: > # your text below (remove <br /> elements if you don't need line 
   In partial fulfillment of the requirements for the degree of
   Bachelor of Technology in Computer-Science (class of 2021)
   <br /><br />
-  <a href="https://example.com/resume">View My Resume</a>
+  <a href="https://github.com/Joshtomith/Joshtomith.github.io/blob/master/Smith%20Resume.docx">View My Resume</a>
   <br /><br />
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
 repository: "csci-csu/csci-portfolio"
 github_username:  username # update with your username
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
