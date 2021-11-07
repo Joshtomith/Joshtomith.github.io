@@ -51,7 +51,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Paper 3 Title](/pdf/Sony Pictures Hack.pdf)
+### [Paper 3 Title](/pdf/Sony_Pictures_Hack.pdf)
 
 -   **Class:** 
 -   **Grade:**
