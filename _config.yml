@@ -8,9 +8,9 @@ description: > # your text below (remove <br /> elements if you don't need line 
   Bachelor of Technology in Computer-Science (class of 2021)
   <br /><br />
   <a href="https://github.com/Joshtomith/Joshtomith.github.io/blob/master/Smith%20Resume.docx">View My Resume</a>
-  <br /><br />
+  <br />
 repository: "csci-csu/csci-portfolio"
-github_username:  username # update with your username
+github_username:  Joshtomith # update with your username
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
 # Build setting
