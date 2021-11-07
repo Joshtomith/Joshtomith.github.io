@@ -31,15 +31,15 @@ Programming Projects
 Ethics Papers
 -------------
 
+### [Ethics in the Case of Edward Snowden](/pdf/Smith_Edward Snowden_White _Paper.pdf)
+
+-   **Class: Principals of Cybersecurity CRIM 405** 
+-   **Grade: 100%**
+
 ### [Ethics of Programming Copyright](/pdf/Smith_Scripting_Ethics_Paper.pdf)
 
 -   **Class: Survey of Scripting Languages CSCI 301**  
 -   **Grade: 94%**
-
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
-
--   **Class:** 
--   **Grade:**
 
 ---
 
