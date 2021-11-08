@@ -7,7 +7,7 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:JTSmith3@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 1 Title | CSCI 301](project1)
+### [Survey of Scripting Project Compilation | CSCI 301](project1)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
@@ -15,16 +15,6 @@ Programming Projects
 ### [Project 2 Title | CSCI 315](project1)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
-
----
-### [Project 3 Title | CSCI 325](project1)
-
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
-
----
-### [Project 4 Title | CSCI 332](project1)
-
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
 
