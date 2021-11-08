@@ -6,7 +6,7 @@ Scripting Project Compilation
 -   **Class: CSCI-301** 
 -   **Grade: 100%**
 -   **Language(s): Shell, Perl, Python**
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/Joshtomith/Scripting-Project-Portfolio)  
+-   **Source Code Repository:** [Scripting Project Portfolio](https://github.com/Joshtomith/Scripting-Project-Portfolio)  
     (Please [email me](mailto:JTSmith3@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
