@@ -11,15 +11,20 @@ Scripting Project Compilation
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A collection of some of the scripting languages I learned at Trident. Included in the project is 3 different programs, that each are in their own respective language. The languages are as follows: Shell, Perl, and Python. Each acomplish a different task and are here to demonstrate mastery of a variety of problems/concepts. 
+* Perl: Hashes and reading information from a file
+* Python: Simple math calculations and utilizing classes/instancing
+* Shell: Regular Expression when searching through large data sets
 
 ## How to compiles / run the program
 
 How to compile (if applicable) and run the project.
 
 ```bash
-cd ./project
-python setup.py
+1) Go into any normal linux terminal and cd into the directory with the file
+2) Give permissions chmod 755 lab02.sh
+3) Then run it with ./lab02.sh
+4) Requires a file named words.txt, but can be filed with anything the user wants in terms of content (1 word per line).
 ```
 
 ## UI Design
