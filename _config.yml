@@ -8,8 +8,7 @@ description: > # your text below (remove <br /> elements if you don't need line 
   Bachelor of Technology in Computer-Science (class of 2021)
   <br /><br />
   <a href="/pdf/Smith Resume.pdf">View My Resume</a>
-  <br /><br />
-  [Reflection Questions](Smith Reflection Questions)
+  <br />[Reflection Questions](Smith Reflection Questions)
 repository: "csci-csu/csci-portfolio"
 github_username:  Joshtomith # update with your username
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
