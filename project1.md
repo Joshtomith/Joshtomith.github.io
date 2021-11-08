@@ -6,12 +6,12 @@ Scripting Project Compilation
 -   **Class: CSCI-301** 
 -   **Grade: 100%**
 -   **Language(s): Shell, Perl, Python**
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/Joshtomith/Scripting-Project-Portfolio)  
+    (Please [email me](mailto:JTSmith3@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-A collection of some of the scripting languages I learned at Trident. Included in the project is 3 different programs, that each are in their own respective language. The languages are as follows: Shell, Perl, and Python. Each acomplish a different task and are here to demonstrate mastery of a variety of problems/concepts. 
+A collection of some of the scripting languages I learned at CSU. Included in the project is 3 different programs, that each are in their own respective language. The languages are as follows: Shell, Perl, and Python. Each acomplish a different task and are here to demonstrate mastery of a variety of problems/concepts. 
 * Perl: Hashes and reading information from a file
 * Python: Simple math calculations and utilizing classes/instancing
 * Shell: Regular Expression when searching through large data sets
