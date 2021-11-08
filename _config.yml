@@ -7,7 +7,7 @@ description: > # your text below (remove <br /> elements if you don't need line 
   In partial fulfillment of the requirements for the degree of
   Bachelor of Technology in Computer-Science (class of 2021)
   <br /><br />
-  <a href="/pdf/Smith Resume.pdf">View My Resume</a>
+  <br /><a href="/pdf/Smith Resume.pdf">View My Resume</a><br />
   ### [Survey of Scripting Project Compilation | CSCI 301](project1)
 repository: "csci-csu/csci-portfolio"
 github_username:  Joshtomith # update with your username
