@@ -40,23 +40,36 @@ Perl Program:
 3) Press the execute button at the top, the code will output at the bottom in the terminal
 ```
 
-## UI Design
+## Image Examples
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+Below are screenshots taken from the three programs. They do not show source code, but do show the output/results of all programs. Considering there is no input for the programs there is notable UI elements to document. The Perl examples are screenshots of the files created, and the rest are derived from the terminal. Refer to the README.md file for any questions about the functionality of each program. 
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 1. The launch screen
+![screenshot](images/Perl_example_players.PNG)
+Fig 1. The Perl default input file and scores used
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 2. Example output after input is processed.
+![screenshot](images/Perl_example_average.PNG)
+Fig 2. The average of inputted scores of the Perl Program
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 3. Feedback when an error occurs.
+![screenshot](images/Perl_example_soreted_list.PNG)
+Fig 3. The Perl Sorted list of players based on the scores
+
+![screenshot](images/Perl_example_winner.PNG)
+Fig 4. The Perl score winner based off default values
+
+![screenshot](images/Python_example_output.PNG)
+Fig 5. Python testing and calculations of a right triangle
+
+![screenshot](images/Shell_example_output01.PNG)
+Fig 6. First half of Shell output: words that start with Christmas, count of words ending in -ing and words that start with M and end an e (sorted)
+
+![screenshot](images/Shell_example_output02.PNG)
+Fig 7. Second half of Shell output: last portion of words that start with M and end an e, and percentage of words with a starting vowel
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+This is a compilation of programs that come together to form a larger project. Its much easier to utilize online compilers with how many languages the project switches between. That being said the Shell program's text file that holds sample words is to big for most online compilers. In that case, as mentioned in instuctions, you would have to utilize a linux machine to run the shell program. Alternatively, you can simply provide your own words.txt to run from.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+For more details see [README.md file](https://github.com/Joshtomith/Scripting-Project-Portfolio/blob/main/README.md).
 
 [Back to Portfolio](https://joshtomith.github.io/)
