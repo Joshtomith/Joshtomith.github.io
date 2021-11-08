@@ -35,7 +35,7 @@ Python Program:
 ```
 Perl Program:
 ```bash
-1) Go to this link for an online python compiler: https://www.onlinegdb.com/online_perl_compiler#
+1) Go to this link for an online perl compiler: https://www.onlinegdb.com/online_perl_compiler#
 2) Copy the source code or simply upload the files to the site. Only requires lab04.pl and scores.txt to function. (lab04.pl is main)
 3) Press the execute button at the top, the code will output at the bottom in the terminal
 ```
