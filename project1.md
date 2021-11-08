@@ -45,25 +45,25 @@ Perl Program:
 Below are screenshots taken from the three programs. They do not show source code, but do show the output/results of all programs. Considering there is no input for the programs there is notable UI elements to document. The Perl examples are screenshots of the files created, and the rest are derived from the terminal. Refer to the README.md file for any questions about the functionality of each program. 
 
 ![screenshot](images/Perl_example_players.PNG)
-Fig 1. The Perl default input file and scores used
+<br>Fig 1. The Perl default input file and scores used
 
 ![screenshot](images/Perl_example_average.PNG)
-Fig 2. The average of inputted scores of the Perl Program
+<br>Fig 2. The average of inputted scores of the Perl Program
 
-![screenshot](images/Perl_example_soreted_list.PNG)
-Fig 3. The Perl Sorted list of players based on the scores
+![screenshot](images/Perl_example_sorted_list.PNG)
+<br>Fig 3. The Perl Sorted list of players based on the scores
 
 ![screenshot](images/Perl_example_winner.PNG)
-Fig 4. The Perl score winner based off default values
+<br>Fig 4. The Perl score winner based off default values
 
 ![screenshot](images/Python_example_output.PNG)
-Fig 5. Python testing and calculations of a right triangle
+<br>Fig 5. Python testing and calculations of a right triangle
 
 ![screenshot](images/Shell_example_output01.PNG)
-Fig 6. First half of Shell output: words that start with Christmas, count of words ending in -ing and words that start with M and end an e (sorted)
+<br>Fig 6. First half of Shell output: words that start with Christmas, count of words ending in -ing and words that start with M and end an e (sorted)
 
 ![screenshot](images/Shell_example_output02.PNG)
-Fig 7. Second half of Shell output: last portion of words that start with M and end an e, and percentage of words with a starting vowel
+<br>Fig 7. Second half of Shell output: last portion of words that start with M and end an e, and percentage of words with a starting vowel
 
 ## 3. Additional Considerations
 
