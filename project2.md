@@ -5,7 +5,7 @@ Scripting Project Compilation
 
 -   **Class: CSCI-315** 
 -   **Grade: 75% (Fixed Errors Based on Feedback)**
--   **Language(s): C++
+-   **Language(s): C++**
 -   **Source Code Repository:** [Data Structures Portfolio Project](https://github.com/Joshtomith/Data-Structures-Portfolio-)  
     (Please [email me](mailto:JTSmith3@csustudent.net?subject=GitHub%20Access) to request access.)
 
