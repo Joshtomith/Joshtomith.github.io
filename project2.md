@@ -11,10 +11,7 @@ Scripting Project Compilation
 
 ## Project description
 
-A collection of some of the scripting languages I learned at CSU. Included in the project is 3 different programs, that each are in their own respective language. The languages are as follows: Shell, Perl, and Python. Each acomplish a different task and are here to demonstrate mastery of a variety of problems/concepts. 
-* Perl: Hashes and reading information from a file
-* Python: Simple math calculations and utilizing classes/instancing
-* Shell: Regular Expression when searching through large data sets
+This projects contains two different implementations of a balanced binary search tree data structure. The purpose of the project was to experiment with different techniques of this task, and how the differ in efficiency. This project choose to focus on the AVL tree and Splay tree implementations in particular. This is a full scale implementation, with the ability to add to, delete, find the height of the tree and etc. For in depth examination of the differences read Implementation Differnces.txt. This program does not output anything into the terminal, but there is a timing program inlcuded to track the speed of actions on the data structures. However, you would need to pipe the results into a plotting program (such as gnuplot, that was used for the figure below).
 
 ## How to compiles / run the programs
 
