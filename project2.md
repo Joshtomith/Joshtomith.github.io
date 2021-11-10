@@ -1,4 +1,4 @@
-[Back to Portfolio](./)
+[Back to Portfolio](https://joshtomith.github.io/)
 
 Scripting Project Compilation
 ===============
