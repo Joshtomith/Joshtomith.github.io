@@ -27,7 +27,7 @@ Shell Program:
 
 ## Image Examples
 
-Below are screenshots taken from the three programs. They do not show source code, but do show the output/results of all programs. Considering there is no input for the programs there is notable UI elements to document. The Perl examples are screenshots of the files created, and the rest are derived from the terminal. Refer to the README.md file for any questions about the functionality of each program. 
+This is a timing chart of the time it takes to add to a tree, and rebalance to maintain order in the tree. In this example both trees preformed about the same in terms of speed before 4500 add operations. However, after this point AVL began to outpreform Splay overall. Especially near the end, Splay spiked to high levels. Meanwhile AVL maintained its constant stable rise with the increasing data sizes.
 
 ![screenshot](images/AVLandSplay.png)
 <br>Fig 1. Chart of the Timing for the different implementations. AVL Tree vs. Splay Tree
@@ -35,9 +35,9 @@ Below are screenshots taken from the three programs. They do not show source cod
 
 ## 3. Additional Considerations
 
-This is a compilation of programs that come together to form a larger project. Its much easier to utilize online compilers with how many languages the project switches between. That being said the Shell program's text file that holds sample words is to big for most online compilers. In that case, as mentioned in instuctions, you would have to utilize a linux machine to run the shell program. Alternatively, you can simply provide your own words.txt to run from.
+Sometimes we have to consider not only the speed of operations with different implementations, but the time it takes to setup the data structure. AVL may have preformed better in speed with larger data sets, but Splay was much easier to implement. In a bussiness setting where a speed of implementation is a priority, Splay would be a serious contender.
 
 
-For more details see [README.md file](https://github.com/Joshtomith/Data-Structures-Portfolio-/blob/main/READ_ME.txt).
+For more details see [README.md file](https://github.com/Joshtomith/Data-Structures-Portfolio-/blob/main/READ_ME.md).
 
 [Back to Portfolio](https://joshtomith.github.io/)
