@@ -9,12 +9,12 @@ Programming Projects
 ---
 ### [Survey of Scripting Project Compilation | CSCI 301](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Python Right Triangle Program](images/Python_example_output.PNG)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [Balanced Binary Search Tree Implementations | CSCI 315](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Timing Comparsions](images/AVLandSplay.png)
 
 ---
 
