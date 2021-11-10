@@ -18,8 +18,6 @@ A collection of some of the scripting languages I learned at CSU. Included in th
 
 ## How to compiles / run the programs
 
-How to compile (if applicable) and run the project.
-
 Shell Program:
 ```bash
 1) Go into any normal linux terminal and cd into the directory with the file
