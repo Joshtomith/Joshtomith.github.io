@@ -17,7 +17,6 @@ This projects contains two different implementations of a balanced binary search
 
 Note: There is not executable, but there are obj files if you want to run this off linux. However, for ease of use you can use visual studio or an online compiler to run the source code. Below I will explain the online compiler, since its very easy to use.
 
-Shell Program:
 ```
 1) Go to this website https://www.onlinegdb.com/online_c++_compiler# 
 2) import the files that you want to run. For AVL you'd import main, AVLbinarytree.hpp and AVLbinarytree.cpp
