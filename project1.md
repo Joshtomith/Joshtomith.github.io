@@ -16,19 +16,19 @@ A collection of some of the scripting languages I learned at CSU. Included in th
 * Python: Simple math calculations and utilizing classes/instancing
 * Shell: Regular Expression when searching through large data sets
 
-### Regular Expression Program that does the following to a text file: 
+#### Regular Expression Program that does the following to a text file: 
 1) Prints all occurences of christmas at the start of the line only
 2) Prints the count of words that end with 'ing'
 3) Prints words that start with an uppercase M and ends in lowercase e, then sorts them alphabetically
 4) Calculates and prints percentage of words that start with a vowel
 5) No input is needed for the execution of the program
 
-## Right Triangle Program does the following:
+#### Right Triangle Program does the following:
 1) Demonstrates classes and use of instancing when working with objects
 2) Does both surface area calculation and hypotenous calculations of a given triangle
 3) Prints all results to the terminal after execution, no input is needed
 
-## Perl Bowling Program does the following:
+#### Perl Bowling Program does the following:
 1) Reads input from a list of scores from a scores.txt file and converts the key-value pairs into a hash
 2) Calculates the average score of all players and writes to average.txt
 3) Sorts the players based off score from lowest to highest and writes to sorted.txt
