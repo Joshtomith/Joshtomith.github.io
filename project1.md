@@ -12,9 +12,9 @@ Scripting Project Compilation
 ## Project description
 
 A collection of some of the scripting languages I learned at CSU. Included in the project is 3 different programs, that each are in their own respective language. The languages are as follows: Shell, Perl, and Python. Each acomplish a different task and are here to demonstrate mastery of a variety of problems/concepts. 
-* Perl: Hashes and reading information from a file
-* Python: Simple math calculations and utilizing classes/instancing
 * Shell: Regular Expression when searching through large data sets
+* Python: Simple math calculations and utilizing classes/instancing
+* Perl: Hashes and reading information from a file
 
 #### Regular Expression Program that does the following to a text file: 
 * Prints all occurences of christmas at the start of the line only <br>
