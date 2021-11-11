@@ -24,16 +24,16 @@ A collection of some of the scripting languages I learned at CSU. Included in th
 * No input is needed for the execution of the program
 
 #### Right Triangle Program does the following:
-1) Demonstrates classes and use of instancing when working with objects
-2) Does both surface area calculation and hypotenous calculations of a given triangle
-3) Then creates a second triangle using the same methods, but shows the different outputs
-4) Prints all results to the terminal after execution, no input is needed
+* Demonstrates classes and use of instancing when working with objects
+* Does both surface area calculation and hypotenous calculations of a given triangle
+* Then creates a second triangle using the same methods, but shows the different outputs
+* Prints all results to the terminal after execution, no input is needed
 
 #### Perl Bowling Program does the following:
-1) Reads input from a list of scores from a scores.txt file and converts the key-value pairs into a hash
-2) Calculates the average score of all players and writes to average.txt
-3) Sorts the players based off score from lowest to highest and writes to sorted.txt
-4) Calculate the winner based on who has the highest score, writes to winner.txt
+* Reads input from a list of scores from a scores.txt file and converts the key-value pairs into a hash
+* Calculates the average score of all players and writes to average.txt
+* Sorts the players based off score from lowest to highest and writes to sorted.txt
+* Calculate the winner based on who has the highest score, writes to winner.txt
 
 
 ## How to compiles / run the programs
