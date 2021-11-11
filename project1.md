@@ -26,7 +26,8 @@ A collection of some of the scripting languages I learned at CSU. Included in th
 #### Right Triangle Program does the following:
 1) Demonstrates classes and use of instancing when working with objects
 2) Does both surface area calculation and hypotenous calculations of a given triangle
-3) Prints all results to the terminal after execution, no input is needed
+3) Then creates a second triangle using the same methods, but shows the different outputs
+4) Prints all results to the terminal after execution, no input is needed
 
 #### Perl Bowling Program does the following:
 1) Reads input from a list of scores from a scores.txt file and converts the key-value pairs into a hash
