@@ -36,7 +36,7 @@ This is a timing chart of the time it takes to add to a tree, and rebalance to m
 
 Sometimes we have to consider not only the speed of operations with different implementations, but the time it takes to setup the data structure. AVL may have preformed better in speed with larger data sets, but Splay was much easier to implement. In a bussiness setting where a speed of implementation is a priority, Splay would be a serious contender.
 
-For more in depth comparsion see [README.md file](Implementations Differences.md).
+For more in depth comparsion see [README.md file](Implementations_Differences.md).
 For more technical details see [README.md file](https://github.com/Joshtomith/Data-Structures-Portfolio-/blob/main/README.md).
 
 [Back to Portfolio](https://joshtomith.github.io/)
