@@ -35,6 +35,8 @@ This is a timing chart of the time it takes to add to a tree, and rebalance to m
 ![screenshot](images/AVLandSplay.png)
 <br>Fig 1. Chart of the Timing for the different implementations. AVL Tree vs. Splay Tree
 
+![screenshot](images/DatastructuresFig2.PNG)
+<br>Fig 2. AVL executables showing methods for add, delete, show in order, and how the tree balances.
 
 ## 3. Additional Considerations
 
