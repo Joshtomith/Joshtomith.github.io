@@ -62,7 +62,7 @@ Perl Program:
 
 ## Image Examples
 
-Below are screenshots taken from the three programs. They do not show source code, but do show the output/results of all programs. Considering there is no input for the programs there is notable UI elements to document. The Perl examples are screenshots of the files created, and the rest are derived from the terminal. Refer to the README.md file for any questions about the functionality of each program. 
+Below are screenshots taken from the three programs. They do not show source code, but do show the output/results of all programs. Considering there is no input for the programs there is no notable UI elements to document. The Perl examples are screenshots of the files created, and the rest are derived from the terminal. Refer to the README.md file for any questions about the functionality of each program. 
 
 ![screenshot](images/Perl_example_players.PNG)
 <br>Fig 1. The Perl default input file and scores used
@@ -87,7 +87,7 @@ Below are screenshots taken from the three programs. They do not show source cod
 
 ## 3. Additional Considerations
 
-This is a compilation of programs that come together to form a larger project. Its much easier to utilize online compilers with how many languages the project switches between. That being said the Shell program's text file that holds sample words is to big for most online compilers. In that case, as mentioned in instuctions, you would have to utilize a linux machine to run the shell program. Alternatively, you can simply provide your own words.txt to run from.
+This is a compilation of programs that come together to form a larger project. Its much easier to utilize online compilers with how many languages the project switches between. That being said the Shell program's text file that holds sample words is too big for most online compilers. In that case, as mentioned in instuctions, you would have to utilize a linux machine to run the shell program. Alternatively, you can simply provide your own words.txt to run from.
 
 
 For more details see [README.md file](https://github.com/Joshtomith/Scripting-Project-Portfolio/blob/main/README.md).
