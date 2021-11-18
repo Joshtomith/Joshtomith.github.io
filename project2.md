@@ -30,7 +30,7 @@ If you want to run Splay tree, either contact me or do this to the source files:
 
 ## Image Examples
 
-Figure 1. is a timing chart of the time it takes to add to a tree, and rebalance to maintain order in the tree. In this example both trees preformed about the same in terms of speed before 4500 add operations. However, after this point AVL began to outpreform Splay overall. Especially near the end, Splay spiked to high levels. Meanwhile AVL maintained its constant stable rise with the increasing data sizes. The Figure 2. demonstrates a few critical functions that you need to operate a binary tree, and the results they have on the tree structure itself.
+Figure 1 is a timing chart of the time it takes to add to a tree, and rebalance to maintain order in the tree. In this example both trees preformed about the same in terms of speed before 4500 add operations. However, after this point AVL began to outpreform Splay overall. Especially near the end, Splay spiked to high levels. Meanwhile AVL maintained its constant stable rise with the increasing data sizes. Figure 2 demonstrates a few critical functions that you need to operate a binary tree, and the results they have on the tree structure itself.
 
 ![screenshot](images/AVLandSplay.png)
 <br>Fig 1. Chart of the Timing for the different implementations. AVL Tree vs. Splay Tree add operations
