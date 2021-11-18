@@ -41,24 +41,22 @@ A collection of some of the scripting languages I learned at CSU. Included in th
 There are no executables, so Python and Perl need their source files to be put into a compiler. Shell can be run on bash on linux, or with a online compiler as well.
 
 Shell Program:
-```
+
 1) Go into any normal linux terminal and cd into the directory with the file
 2) Give permissions chmod 755 lab02.sh
 3) Then run it with ./lab02.sh
 4) Requires a file named words.txt, but can be filed with anything the user wants in terms of content (1 word per line).
-```
+
 Python Program:
-```
 1) Go to this link for an online python compiler: https://www.onlinegdb.com/online_python_compiler
 2) Copy the source code or simply upload the file to the site (RightTriangle.py is main)
 3) Press the execute button at the top, the code will output at the bottom in the terminal
-```
+
 Perl Program:
-```
 1) Go to this link for an online perl compiler: https://www.onlinegdb.com/online_perl_compiler#
 2) Copy the source code or simply upload the files to the site. Only requires lab04.pl and scores.txt to function. (lab04.pl is main)
 3) Press the execute button at the top, the code will output at the bottom in the terminal
-```
+
 
 ## Image Examples
 
