@@ -60,7 +60,7 @@ Perl Program:
 
 ## Image Examples
 
-Below are screenshots taken from the three programs. They do not show source code, but do show the output/results of all programs. Considering there is no input for the programs there is no notable UI elements to document. The Perl examples are screenshots of the files created and Figures 1-4. Figure 5 is the terminal output for python after running the triangle program. Figures 6-7 are linux terminal output for the bash program and its commands. Refer to the README.md file for any questions about the functionality of each program. 
+Below are screenshots taken from the three programs. They do not show source code, but do show the output/results of all programs. Considering there is no input for the programs there is no notable UI elements to document. The Perl examples are screenshots of the files created and are Figures 1-4. Figure 5 is the terminal output for python after running the triangle program. Figures 6-7 are linux terminal output for the bash program and its commands. Refer to the README.md file for any further questions about the functionality of each program. 
 
 ![screenshot](images/Perl_example_players.PNG)
 <br>Fig 1. The Perl default input file and scores used
