@@ -17,7 +17,7 @@ This projects contains two different implementations of a balanced binary search
 
 Note: There are obj files if you want to run this off linux, but you'd have to use g++ to compile. However, if you have a windows machine the github exe release is much easier to run on windows.
 
-```
+
 1) Download the exectuable from the github release.
 2) Then run the exectuable to see the example AVL tree, and the program will demonstrate a critical methods of the implementation.
 
@@ -26,7 +26,7 @@ If you want to run Splay tree, either contact me or do this to the source files:
 2) import the files that you want to run. For Splay you'd import main, Splaybinarytree.hpp and Splaybinarytree.cpp
 3) Change main to include the correct tree your running. For example, instead of #include "AVLbinarytree.hpp" it'd be #include "SplaybinaryTree.hpp"  
 4) Click execute, and the main included will run a couple of basic functions to test the implementations.
-```
+
 
 ## Image Examples
 
