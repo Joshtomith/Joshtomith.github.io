@@ -19,7 +19,7 @@ Note: There are obj files if you want to run this off linux, but you'd have to u
 
 
 * Download the exectuable from the github release.
-* Then run the exectuable to see the example AVL tree, and the program will demonstrate a critical methods of the implementation.
+* Then run the exectuable to see the example AVL tree, and the program will demonstrate critical methods of the implementation.
 
 #### If you want to run Splay tree, either contact me or do this to the source files:
 * Go to this website https://www.onlinegdb.com/online_c++_compiler# 
